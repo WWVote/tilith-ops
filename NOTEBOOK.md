@@ -1,17 +1,12 @@
 # TILITH NOTEBOOK
-Updated: 2026-03-27 16:17
+Updated: 2026-03-27 16:18
+
+## GPU
+32028 MiB, 32607 MiB, 42, 23 %, 95.26 W
+
+## BRIDGE
+Poller: RUNNING
+Poll interval: 30s
 
 ## STATUS
-- Training: PENDING
-- Downloads: 30/38
-- Bridge: Live
-- GPU: RTX 5090 32GB
-
-## PENDING
-- Restart v7 training
-- 8 LoRA downloads
-- OpenClaw/WhatsApp
-
-## PATHS
-- Training: C:\\Users\\kevin\\tilith-lora\\train_v7_local.bat
-- Bridge: C:\\Users\\kevin\\.openclaw\\bridge\\
+Check OUTBOX.md for latest task results
