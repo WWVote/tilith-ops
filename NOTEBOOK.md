@@ -1,8 +1,8 @@
 # TILITH NOTEBOOK
-Updated: 2026-03-27 23:13
+Updated: 2026-03-27 23:14
 
 ## GPU
-4401 MiB, 32607 MiB, 38, 6 %, 67.07 W
+4385 MiB, 32607 MiB, 38, 1 %, 65.90 W
 
 ## BRIDGE
 Poller: RUNNING
