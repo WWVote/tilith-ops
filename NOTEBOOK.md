@@ -2,7 +2,7 @@
 Updated: 2026-03-27 23:13
 
 ## GPU
-3886 MiB, 32607 MiB, 36, 1 %, 49.61 W
+3905 MiB, 32607 MiB, 36, 0 %, 45.74 W
 
 ## BRIDGE
 Poller: RUNNING
